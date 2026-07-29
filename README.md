@@ -15,7 +15,7 @@
 
 [呆鹅云官网注册入口](https://gsg.gosillygoose.online/#/register?code=LnLYGDTC)
 
-如果访问不了，可以[点击此处](https://aaa.fwh.is/)查看其他可用机场。
+如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
 # 目录
 
@@ -315,4 +315,4 @@
 
 [呆鹅云官方注册入口](https://gsg.gosillygoose.online/#/register?code=LnLYGDTC)
 
-如果访问不了，可以[点击此处](https://aaa.fwh.is/)查看其他可用机场。
+如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
