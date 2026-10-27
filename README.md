@@ -13,7 +13,7 @@
 
 本仓库主要用于整理呆鹅云官网信息、套餐说明、使用教程以及客户端配置参考，帮助用户更方便了解呆鹅云注册入口、套餐选择和使用方法。
 
-[呆鹅云官网注册入口](https://gsg.gosillygoose.online/#/register?code=LnLYGDTC)
+[呆鹅云官网注册入口](https://a.wwaann.com/?s=gosillygoose)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
@@ -313,6 +313,6 @@
 
 使用呆鹅云前，建议根据自己的流量需求选择合适套餐，并结合实际网络环境测试不同节点。
 
-[呆鹅云官方注册入口](https://gsg.gosillygoose.online/#/register?code=LnLYGDTC)
+[呆鹅云官方注册入口](https://a.wwaann.com/?s=gosillygoose)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
